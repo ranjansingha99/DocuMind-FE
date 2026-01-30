@@ -15,7 +15,7 @@ const SideBar: React.FC<SideBarProps> = ({ collapsed }) => {
         trigger={null}
         collapsible
         collapsed={collapsed}
-        width="20%"
+        width="22%"
         collapsedWidth="5%"
         style={{
           background: "#584294",
@@ -25,7 +25,7 @@ const SideBar: React.FC<SideBarProps> = ({ collapsed }) => {
           <>
             <div className={style.name}>DocuMind-99</div>
             <div className={style.description}>
-              <h2>Welcome to DocuMind</h2>
+              <h2>Welcome to DocuMind-99</h2>
               <p>
                 Upload your PDF and start a conversation with your documents.
                 DocuMind lets you ask questions, generate summaries, and extract

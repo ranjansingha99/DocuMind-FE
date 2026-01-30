@@ -33,8 +33,8 @@ const HeaderSection: React.FC<HeaderSectionProps> = ({
         onClick={() => setCollapsed(!collapsed)}
         style={{
           fontSize: "16px",
-          width: 64,
-          height: 64,
+          width: 34,
+          height: 34,
         }}
       />
 
